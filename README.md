@@ -6,8 +6,7 @@ Seismic Rocks LLC
 David@SeismicRocks.com  
 2020-September
 
-This script builds on another script.  
-The previous work was done by:  
+This script builds on another script by:  
 Ryan A. Mardani, linkedin.com/in/amardani  
 The reference work is:  
 https://towardsdatascience.com/10-steps-in-pandas-to-process-las-file-and-plot-610732093338  
