@@ -1,5 +1,5 @@
 # well_log_tracks
-Experiment with creating various tracks in a well log plot
+### Experiment with creating various tracks in a well log plot.
 
 David Forel  
 Seismic Rocks LLC  
