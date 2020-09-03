@@ -13,6 +13,8 @@ This script adds two extensions to the cited Mardani work:
   1. Two logs in the additional 7th track.
   2. Add a "fraction" track to the previous conventional well log display.
 
+![Full well log display with fraction track](/well_log_tracks/images/LAS-KGS-04.png)
+
 ## Confessions
 
   1. To make my "fraction" plot, I used Matplotlib's "ContourSet."  This might have been easier with Matplotlib's "stackplot" but I could not figure out how to turn a stackplot on its side.
