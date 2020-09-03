@@ -16,3 +16,8 @@ https://towardsdatascience.com/10-steps-in-pandas-to-process-las-file-and-plot-6
 This script adds two extensions to the Mardani work:
   1. Two logs in the additional 7th track.
   2. Add a "fraction" track to the previous conventional well log display.
+
+## Confessions
+
+  1. This plot might have been easier with Matplotlib's "stackplot" but I could not figure out how to turn a stackplot on its side.
+  2. Currently, this work is a product of Pyton 3.8 in PyCharm.
