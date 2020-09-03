@@ -12,7 +12,7 @@ The reference work is:
 https://towardsdatascience.com/10-steps-in-pandas-to-process-las-file-and-plot-610732093338  
 "10 Steps in Pandas to Process LAS File and Plot (Part 1)"
 
-This script adds two extensions to the Mardani work:
+This script adds two extensions to the cited Mardani work:
   1. Two logs in the additional 7th track.
   2. Add a "fraction" track to the previous conventional well log display.
 
