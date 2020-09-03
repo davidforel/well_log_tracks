@@ -19,4 +19,4 @@ This script adds two extensions to the cited Mardani work:
 ## Confessions
 
   1. To make my "fraction" plot, I used Matplotlib's "ContourSet."  This might have been easier with Matplotlib's "stackplot" but I could not figure out how to turn a stackplot on its side.
-  2. Currently, this work is a product of Pyton 3.8 in PyCharm.
+  2. Currently, this work is a product of Python 3.8 in PyCharm.
