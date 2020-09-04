@@ -15,6 +15,10 @@ This script adds two extensions to the cited Mardani work:
 
 ![Full well log display with fraction track](images/LAS-KGS-04.png)
 
+## Explanation of polygon track
+
+Each "series" (below left) is the fundamental input, the depth series of a constituent (sand, shale, etc.). Each "fraction" (below center) is computed by adding the previous depth series to the previous constituent. Each "polygon" (below right) is the points of the fraction and the reverse of the points of the previous ("shallower") fraction.  Note that Matplotlib's ContourSet does **not** require the last point to be the same as the first point.
+
 ## Confessions
 
   1. To make my "fraction" plot, I used Matplotlib's "ContourSet."  This might have been easier with Matplotlib's "stackplot" but I could not figure out how to turn a stackplot on its side.
