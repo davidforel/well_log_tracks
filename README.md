@@ -17,7 +17,7 @@ This script adds two extensions to the cited Mardani work:
 
 ## Explanation of polygon track
 
-Each "series" (below left) is the fundamental input, the depth series of a constituent (sand, shale, etc.). Each "fraction" (below center) is computed by adding the previous depth series to the previous constituent. Each "polygon" (below right) is the points of the fraction and the reverse of the points of the previous ("shallower") fraction.  Note that Matplotlib's ContourSet does **not** require the last point to be the same as the first point.
+Each "series" (below left) is the fundamental input, the depth series of a constituent (sand, shale, etc.). Each "fraction" (below center) is computed by adding the previous depth series to the previous constituent. Each "polygon" (below right) is the points of the fraction and the reverse of the points of the previous fraction.  Note that Matplotlib's ContourSet does **not** require the last point to be the same as the first point.
 
 ![Demonstrate getting from a depth series to a polygon](images/fraction33.png)
 
